@@ -1,0 +1,6 @@
+{
+  "name": "Hostel Complaint Tracker",
+  "description": "Multi-role hostel maintenance & complaint management dashboard for students, administrators, and contractors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
